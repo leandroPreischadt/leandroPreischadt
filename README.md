@@ -1,4 +1,4 @@
-# 🤖 Leandro Preischadt
+\# 🤖 Leandro Preischadt
 
 **`Desenvolvedora Backend`**
 
@@ -49,19 +49,6 @@ Também faço parte da Daedalus, uma equipe de robótica na qual trabalhamos no 
 <br/>
 
 ### 📊 Statistics
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=leandroPreischadt&show_icons=true&theme=tokyonight&hide_border=true&locale=en" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroPreischadt&theme=tokyonight&layout=compact&hide_border=true&custom_title=Technologies&langs_count=3" 
-  />
-</p>
 
 <p align="left">
   <img 
