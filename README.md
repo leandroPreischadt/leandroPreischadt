@@ -50,7 +50,7 @@ I am also a member of Daedalus, a robotics team where we develop robots and appl
 
 ### 📊 Statistics
 
-<p align="left">
+<p align="center">
   <img 
     alt="GitHub Streak" 
     src="https://streak-stats.demolab.com/?user=leandroPreischadt&theme=tokyonight&hide_border=true" 
