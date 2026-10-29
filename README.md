@@ -28,46 +28,44 @@ Também faço parte da Daedalus, uma equipe de robótica na qual trabalhamos no 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-
- <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+<img 
     align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
-
 <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
     align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
 <br/>
 <br/>
-
 
 ### 📊 Statistics
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leandroPreischadt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=leandroPreischadt&show_icons=true&theme=tokyonight&hide_border=true&locale=en" 
   />
+  <img 
+    alt="Top Languages" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroPreischadt&theme=tokyonight&layout=compact&hide_border=true&custom_title=Technologies&langs_count=3" 
+  />
+</p>
 
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroPreischadt&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=3" 
-/>
-
+<p align="left">
+  <img 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com/?user=leandroPreischadt&theme=tokyonight&hide_border=true" 
+  />
 </p>
