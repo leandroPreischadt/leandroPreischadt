@@ -1,6 +1,6 @@
 \# 🤖 Leandro Preischadt
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
 ## Sobre mim
 
