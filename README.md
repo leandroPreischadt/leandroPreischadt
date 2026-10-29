@@ -1,4 +1,4 @@
-\# 🤖 Leandro Preischadt
+# 🤖 Leandro Preischadt
 
 **`Dev Backend`**
 
@@ -50,9 +50,17 @@ I am also a member of Daedalus, a robotics team where we develop robots and appl
 
 ### 📊 Statistics
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Streak" 
     src="https://streak-stats.demolab.com/?user=leandroPreischadt&theme=tokyonight&hide_border=true" 
   />
 </p>
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandroPreischadt/leandroPreischadt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leandroPreischadt/leandroPreischadt/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/leandroPreischadt/leandroPreischadt/output/github-snake.svg" />
+</picture>
