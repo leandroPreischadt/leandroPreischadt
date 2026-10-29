@@ -1,16 +1,16 @@
 \# 🤖 Leandro Preischadt
 
-**`Desenvolvedor Backend`**
+**`Dev Backend`**
 
-## Sobre mim
+## About me
 
-Olá! Meu nome é Leandro Espindola Preischadt, tenho 20 anos e sou estudante de Ciência da Computação. Atualmente, desenvolvo projetos para aprimorar minhas habilidades em programação, explorar novas tecnologias e estimular cada vez mais minha criatividade.
+Hello! My name is Leandro Espindola Preischadt, I am 20 years old, and I am a Computer Science student. I currently work on projects to hone my programming skills, explore new technologies, and further stimulate my creativity.
 
-Também faço parte da Daedalus, uma equipe de robótica na qual trabalhamos no desenvolvimento de robôs e na aplicação prática dos conhecimentos adquiridos. Essa experiência tem contribuído para o meu crescimento técnico e pessoal, além de fortalecer minha paixão por tecnologia e inovação.
+I am also a member of Daedalus, a robotics team where we develop robots and apply the knowledge we have gained in a practical setting. This experience has contributed to my technical and personal growth, while also strengthening my passion for technology and innovation.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
